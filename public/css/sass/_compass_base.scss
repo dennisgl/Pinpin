@@ -1,0 +1,29 @@
+/**
+ * ######################################################################################
+ * Base partial
+ *   - Initialize common variables and any framework utilities.
+ *   - References:
+ *     - http://compass-style.org/help/tutorials/best_practices/
+ *     - http://compass-style.org/help/tutorials/configurable-variables/
+ * ######################################################################################
+ */
+
+/*##########################################
+ * Compass/framework constants to override
+ *##########################################*/
+
+/*
+ * Enable the following to remove extra styles for these browsers
+ * (see http://compass-style.org/help/tutorials/exclude_vendor_prefixes/)
+ * (also http://compass-style.org/reference/compass/support/)
+ */
+/*
+$experimental-support-for-opera: false;
+$experimental-support-for-khtml: false;
+*/
+
+
+/*############
+ * Imports
+ *############*/
+@import "compass";

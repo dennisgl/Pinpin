@@ -1,0 +1,9 @@
+{
+  "name": "Pinpin-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.12.3",
+    "serve-static": "^1.9.2",
+    "webshot": "^0.15.4"
+  }
+}
